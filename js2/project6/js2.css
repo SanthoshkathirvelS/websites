@@ -1,0 +1,687 @@
+*{
+    padding: 0%;
+    margin: auto;
+    
+}
+
+@font-face {
+    font-family: "kathirvel";
+    src: url(JosefinSans-Italic-VariableFont_wght.ttf);
+}
+
+.container{
+    height: 4365px;
+    width: 1260px;
+    margin: auto;
+    /* border: 1px solid; */
+}
+
+.container1{
+    height: 900px;
+    width: 1260px;
+    margin: auto;
+    /* border: 1px solid; */
+    position: relative;
+    background-image: url(background\ bikes.jpeg);
+    background-repeat: no-repeat;
+    background-size: 1260px 890px;
+    /* background-attachment: fixed; */
+}
+
+.container1 h1{
+font-family: "kathirvel";
+text-align: center;
+font-size: 90px;
+color: white;
+margin: 121px 0 0 316px;
+    position: absolute;
+    opacity: 0.8;
+}
+
+.con1{
+    height: 400px;
+    width: 500px;
+    /* border: 1px solid; */
+    position: absolute;
+    background-color: black;
+    opacity: 0.6;
+    margin: 330px 0 0 152px;
+    box-shadow: 0px 0px 18px 2px white;
+}
+
+.con1 h2{
+    color: white;
+    font-family: "kathirvel";
+    font-size: 40px;
+    padding: 74px 0 0 0;
+    text-align: center;
+}
+
+.con1 h3{
+    color: white;
+    font-family: "kathirvel";
+    font-size: 19px;
+    padding: 60px 0 0 0;
+    text-align: center;
+}
+
+.ra1{
+    height: 70px;
+    width: 70px;
+    /* border: 1px solid white; */
+    display: inline-block;
+    position: absolute;
+    margin: 33px 0 0 20px;
+    border-radius: 50%;
+    background-image: url(biker1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-shadow: 2px 2px 3px 1px white;
+}
+
+
+
+.ra1 h6{
+    position: absolute;
+    font-size: 10px;
+    color: white;
+    margin: 87px 0 0 0;
+}
+
+.ra2{
+    height: 70px;
+    width: 70px;
+    /* border: 1px solid white; */
+    display: inline-block;
+    position: absolute;
+    margin: 33px 0 0 157px;
+    border-radius: 50%;
+    background-image: url(biker2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-shadow: 2px 2px 3px 1px white;
+}
+
+.ra2 h6{
+    position: absolute;
+    font-size: 10px;
+    color: white;
+    margin: 87px 0 0 0;
+}
+
+.ra3{
+    height: 70px;
+    width: 70px;
+    /* border: 1px solid white; */
+    display: inline-block;
+    position: absolute;
+    margin: 33px 0 0 286px;
+    border-radius: 50%;
+    background-image: url(biker3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-shadow: 2px 2px 3px 1px white;
+}
+
+.ra3 h6{
+    position: absolute;
+    font-size: 10px;
+    color: white;
+    margin: 87px 0 0 0;
+}
+
+.ra4{
+    height: 70px;
+    width: 70px;
+    /* border: 1px solid white; */
+    display: inline-block;
+    position: absolute;
+    margin: 33px 0 0 415px;
+    border-radius: 50%;
+    background-image: url(biker4.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-shadow: 2px 2px 3px 1px white;
+}
+
+.ra4 h6{
+    position: absolute;
+    font-size: 10px;
+    color: white;
+    margin: 87px 0 0 9px;
+}
+
+.fa-fire-flame-curved{
+    position: absolute;
+    font-size: 17px;
+    margin: 83px 0px 0px -18px;
+    color: goldenrod;
+}
+
+.container2{
+    height: 800px;
+    width: 1260px;
+    margin: auto;
+    /* border: 1px solid; */
+    position: relative;
+
+}
+
+.img1{
+    height: 790px;
+    width: 500px;
+    position: absolute;
+    padding: 10px 0 0 440px;
+}
+
+.con2{
+    height: 450px;
+    width: 600px;
+    margin: 201px 0 0 101px;
+    position: absolute;
+    /* border: 1px solid; */
+    box-shadow: 0 0 16px 0 rgba(0,0,0,0.45);
+}
+
+.con21{
+    height: 400px;
+    width: 550px;
+    /* border: 1px solid; */
+    position: absolute;
+    margin: 150px 0 0 707px;
+    
+}
+
+.con21 h1{
+    text-align: center;
+    font-size: 50px;
+    color: #111111;
+    font-family: "kathirvel";
+    padding-top: 50px;
+}
+
+.underline{
+    padding: 8px 100px;
+    background-color: goldenrod;
+    position: absolute;
+    display: inline-block;
+    margin: -4px 0 0 336px;
+    box-shadow: 0 0 5px 1px rgba(0,0,0,0.45);
+}
+
+.fa-motorcycle{
+    font-size: 30px;
+    padding: 10px 0 0 0;
+    position: absolute;
+    padding: 55px 0 0 90px;
+    color: red;
+    opacity: 0.8;
+}
+
+
+
+.con21 h4{
+    text-align: center;
+    font-size: 20px;
+    color: #111111;
+    font-family: "kathirvel";
+    padding-top: 60px;
+    font-weight: 400;
+}
+
+.con21 p{
+    text-align: center;
+    font-size: 20px;
+    color: #111111;
+    font-family: "kathirvel";
+    padding: 65px 41px 0 40px;
+    font-weight: 350;
+}
+
+
+.racer1{
+    height: 200px;
+    width: 200px;
+    /* border: 1px solid; */
+    border-radius: 50%;
+    background-image: url(biker1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    margin: 574px 0 0 32px;
+    box-shadow: 0 0 16px 0 rgba(0,0,0,0.45);
+} 
+
+.racer1 h2{
+    position: absolute;
+    font-family: "katirvel";
+    font-size: 12px;
+    margin: 220px 0 0 56px;
+    
+}
+
+.fa-gripfire{
+    font-size: 26px;
+    position: absolute;
+    margin: 212px 0 0 17px;
+    color: goldenrod;
+}
+
+.container3{
+    height: 800px;
+    width: 1260px;
+    margin: auto;
+    /* border: 1px solid; */
+    position: relative;
+}
+
+.img2{
+    height: 790px;
+    width: 500px;
+    position: absolute;
+    padding: 10px 0 0 250px;
+}
+
+.con3{
+    height: 400px;
+    width: 550px;
+    /* border: 1px solid; */
+    position: absolute;
+    margin: 196px 0 0 545px;
+    box-shadow: 0 0 16px 0 rgba(0,0,0,0.45);
+}
+
+.con31{
+    height: 400px;
+    width: 550px;
+    /* border: 1px solid; */
+    position: absolute;
+    margin: 150px 0 0 0px;
+}
+
+.con31 h1{
+    text-align: center;
+    font-size: 50px;
+    color: #111111;
+    font-family: "kathirvel";
+    padding-top: 50px;
+}
+
+.underline1{
+    padding: 8px 100px;
+    background-color: rgb(219, 81, 81);
+    position: absolute;
+    display: inline-block;
+    margin: -4px 0 0 349px;
+    box-shadow: 0 0 5px 1px rgba(0,0,0,0.45);
+}
+
+.con31 h4{
+    text-align: center;
+    font-size: 20px;
+    color: #111111;
+    font-family: "kathirvel";
+    padding: 60px 129px 0 107px;
+    font-weight: 400;
+}
+
+.con31 p{
+    text-align: center;
+    font-size: 20px;
+    color: #111111;
+    font-family: "kathirvel";
+    padding: 65px 41px 0 40px;
+    font-weight: 350;
+}
+
+.racer2{
+    height: 200px;
+    width: 200px;
+    /* border: 1px solid; */
+    border-radius: 50%;
+    background-image: url(biker2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    margin: 574px 0 0 1033px;
+    box-shadow: 0 0 16px 0 rgba(0,0,0,0.45);
+}
+
+.racer2 h2{
+    position: absolute;
+    font-family: "katirvel";
+    font-size: 12px;
+    margin: 220px 0 0 60px;
+}
+
+.con31 .fa-motorcycle{
+    font-size: 22px;
+    padding: 57px 0 0 66px;
+}
+
+.container4{
+    height: 800px;
+    width: 1260px;
+    margin: auto;
+    /* border: 1px solid; */
+    position: relative;
+}
+
+.img3{
+    height: 790px;
+    width: 500px;
+    position: absolute;
+    padding: 10px 0 0 440px;
+}
+
+.con4{
+    height: 450px;
+    width: 600px;
+    margin: 201px 0 0 101px;
+    position: absolute;
+    /* border: 1px solid; */
+    box-shadow: 0 0 16px 0 rgba(0,0,0,0.45);
+}
+
+.con41{
+    height: 400px;
+    width: 550px;
+    /* border: 1px solid; */
+    position: absolute;
+    margin: 150px 0 0 707px;
+}
+
+.con41 h1 {
+    text-align: center;
+    font-size: 50px;
+    color: #111111;
+    font-family: "kathirvel";
+    padding-top: 50px;
+}
+
+.underline2{
+    padding: 8px 100px;
+    background-color: rgb(53, 169, 215);
+    position: absolute;
+    display: inline-block;
+    margin: -4px 0 0 336px;
+    box-shadow: 0 0 5px 1px rgba(0,0,0,0.45);
+}
+
+.con41 h4 {
+    text-align: center;
+    font-size: 20px;
+    color: #111111;
+    font-family: "kathirvel";
+    padding-top: 60px;
+    font-weight: 400;
+}
+
+.con41 p{
+    text-align: center;
+    font-size: 20px;
+    color: #111111;
+    font-family: "kathirvel";
+    padding: 65px 41px 0 40px;
+    font-weight: 350;
+}
+
+.racer3{
+    height: 200px;
+    width: 200px;
+    /* border: 1px solid; */
+    border-radius: 50%;
+    background-image: url(biker3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    margin: 574px 0 0 32px;
+    box-shadow: 0 0 16px 0 rgba(0,0,0,0.45);
+}
+
+.racer3 h2{
+    position: absolute;
+    font-family: "katirvel";
+    font-size: 12px;
+    margin: 220px 0 0 56px;
+}
+
+.container5{
+    height: 800px;
+    width: 1260px;
+    margin: auto;
+    /* border: 1px solid; */
+    position: relative;
+}
+
+.img4 {
+    height: 790px;
+    width: 500px;
+    position: absolute;
+    padding: 10px 0 0 250px;
+}
+
+.con5 {
+    height: 400px;
+    width: 550px;
+    /* border: 1px solid; */
+    position: absolute;
+    margin: 196px 0 0 545px;
+    box-shadow: 0 0 16px 0 rgba(0,0,0,0.45);
+}
+
+.con51{
+    height: 400px;
+    width: 550px;
+    /* border: 1px solid; */
+    position: absolute;
+    margin: 150px 0 0 0px;
+}
+
+.con51 h1{
+    text-align: center;
+    font-size: 50px;
+    color: #111111;
+    font-family: "kathirvel";
+    padding-top: 50px;
+}
+
+.underline3{
+    padding: 8px 100px;
+    background-color: rgb(163, 177, 92);
+    position: absolute;
+    display: inline-block;
+    margin: -10px 0 0 349px;
+    box-shadow: 0 0 5px 1px rgba(0,0,0,0.45);
+}
+
+.con51 h4 {
+    text-align: center;
+    font-size: 20px;
+    color: #111111;
+    font-family: "kathirvel";
+    padding: 60px 129px 0 107px;
+    font-weight: 400;
+}
+
+.con51 .fa-motorcycle{
+    font-size: 25px;
+}
+
+.con51 p{
+    text-align: center;
+    font-size: 20px;
+    color: #111111;
+    font-family: "kathirvel";
+    padding: 65px 41px 0 40px;
+    font-weight: 350;
+}
+
+.racer4{
+    height: 200px;
+    width: 200px;
+    /* border: 1px solid; */
+    border-radius: 50%;
+    background-image: url(biker4.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    margin: 574px 0 0 1033px;
+    box-shadow: 0 0 16px 0 rgba(0,0,0,0.45);
+}
+
+.racer4 h2{
+    position: absolute;
+    font-family: "katirvel";
+    font-size: 12px;
+    margin: 220px 0 0 85px;
+}
+
+.good .fa-gripfire{
+    font-size: 26px;
+    padding: 3px 0 0 30px;
+}
+
+.container6{
+    height: 200px;
+    width: 1260px;
+    margin: auto;
+    /* border: 1px solid; */
+    margin-top: 40px;
+    background-color: rgb(216, 212, 212);
+    box-shadow: 0 0 16px 0 rgba(0,0,0,0.45);
+}
+
+.container6 h1{
+    text-align: center;
+    font-family: "kathirvel";
+    padding-top: 40px;
+    color: white;
+}
+
+.email{
+    position: absolute;
+    position: absolute;
+    margin: 2px 0 0 23px;
+    height: 30px;
+    width: 200px;
+    color: white;
+    background-color: black;
+    opacity: 0.4;
+    
+}
+
+.email:hover{
+    background-color: white;
+    color: #111111;
+}
+
+.feedback{
+    position: absolute;
+    margin: -56px 0 0 22px;
+    position: absolute;
+    height: 30px;
+    width: 200px;
+    background-color: black;
+    opacity: 0.4;
+    color: white;
+}
+
+.feedback:hover{
+    background-color: white;
+    color: #111111;
+}
+
+.phone{
+    position: absolute;
+    position: absolute;
+    margin: -27px 0 0 23px;
+    height: 30px;
+    width: 200px;
+    background-color: black;
+    opacity: 0.4;
+}
+
+.phone:hover{
+    background-color: white;
+    color: #111111;
+}
+
+.container6 h1:hover{
+    transition: 2s;
+    color: black;
+    font-weight: 900;
+    /* position: absolute; */
+}
+
+.good1 .fa-gripfire{
+    font-size: 49px;
+    margin: 27px 0 0px 393px;
+    position: absolute;
+    color: red;
+}
+
+.good2 .fa-gripfire{
+    font-size: 49px;
+    margin: 31px 0 0px 828px;
+    position: absolute;
+    color: red;
+}
+
+.fa-square-snapchat{
+    position: absolute;
+    margin: 7px 0 0 840px;
+    font-size: 50px;
+    color: goldenrod;
+}
+
+.fa-facebook{
+    position: absolute;
+    margin: 7px 0 0 680px;
+    font-size: 50px;
+    color: rgb(81, 81, 201);
+}
+
+.fa-square-twitter{
+    position: absolute;
+    margin: 7px 0 0 520px;
+    font-size: 50px;
+    color: skyblue;
+}
+
+.fa-instagram{
+    position: absolute;
+    margin: 7px 0 0 370px;
+    font-size: 50px;
+    color: rgb(235, 107, 107);
+}
+
+.final h6{
+    position: absolute;
+    font-family: "kathirvel";
+    font-size: 12px;
+    margin: 69px 0px 0px 358px;
+}
+
+.final1 h6{
+    position: absolute;
+    font-family: "kathirvel";
+    font-size: 12px;
+    margin: 69px 0 0 517px;
+}
+
+.final2 h6{
+    position: absolute;
+    font-family: "kathirvel";
+    font-size: 12px;
+    margin: 69px 0 0 676px;
+}
+
+.final3 h6{
+    position: absolute;
+    font-family: "kathirvel";
+    font-size: 12px;
+    margin: 69px 0 0 834px;
+}
+
+
